@@ -1,0 +1,90 @@
+header{ background-image: url('Capture.png');
+height: 400px;
+width: 100%;
+ }
+h1{
+color: white;
+font-family: "Segoe Print" ;
+font-size: 20px;
+margin-left: 10px;
+float: left;
+width: 50%;
+margin-top: 5px;
+}
+
+h4{
+  text-align: center;
+  color: white;
+}
+.paa{
+  margin-left: 10px;
+}
+p{
+  font-family: "Sakkal Majalla";
+  font-size: 25px;
+  line-height: 25px;
+}
+.i{
+  width: 100%;
+}
+.nav a{
+  text-decoration: none;
+padding: 5px 20px;
+  font-family: "Segoe Print" ;
+  display: inline;
+  float: right;
+
+
+
+
+}
+h2{
+	text-align: center;
+	color: white;
+	font-family: "Yu Gothic Medium";
+
+}
+.c{
+	text-align: center;
+	color: rgb(8,164,56);
+}
+h3{
+	text-align: center;
+	color: rgb(8,164,56);
+}
+.divc{display: flex;
+  text-align: justify;
+      }
+
+
+.divc>div{flex-grow: 1;
+align-items: center;padding:30px;
+color: black;
+word-spacing: 2px;
+}
+
+
+.divc p{text-align: justify;
+    }
+
+footer{
+  background-image: url('c2.png');
+  height: 150px;
+}
+
+
+.info{
+  text-align:justify;
+  padding: 26px;
+  color: black;
+  word-spacing: 2px;
+  font-family: "Segoe Print";
+
+}
+
+.aaaaa{
+  text-align: center;
+  color: black;
+  word-spacing: 2px;
+  font-size: 30px;
+}

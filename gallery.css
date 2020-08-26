@@ -1,0 +1,89 @@
+.zoom {
+  padding: 0px;
+  transition: transform .2s;
+  margin: 0 ;
+  margin-top: 10px;
+}
+
+.zoom:hover {
+  -ms-transform: scale(1.5); /* IE 9 */
+  -webkit-transform: scale(1.5); /* Safari 3-8 */
+  transform: scale(1.5);
+}
+ header{
+   background-image: url('adobestock_257957753_ynews.jpeg');
+   height: 400px;
+   width: 100%;
+  padding: 1px;
+ }
+ .foot{
+   color: white;
+   text-align: center;
+ }
+
+ .tit{
+ color: white;
+ font-family: "Segoe Print" ;
+ font-size: 20px;
+ margin-left: 10px;
+ float: left;
+ width: 50%;
+ margin-top: 5px;
+ }
+ .c{
+ 	text-align: center;
+ 	color: white;}
+
+.nav a{
+    text-decoration: none;
+  padding: 5px 20px;
+    font-family: "Segoe Print" ;
+    display: inline;
+    float: right;}
+
+
+.sim{
+      text-align: center;
+      color: white;
+    }
+
+ #img{
+width: 425px;
+height: 348px;
+  padding: 8px;
+
+ }
+#img2{
+  width: 425px;
+  height: 348px;
+  padding: 8px;
+  margin-left: 15px;
+}
+#img1{
+  width: 425px;
+  height: 348px;
+  padding: 8px;
+}
+#img3{
+  width: 425px;
+  height: 348px;
+  padding: 8px;
+}
+
+ footer{
+   background-image: url('c2.png');
+   height: 150px;
+ }
+ .row{display: flex;
+
+ }
+
+ .divs{display: flex;
+
+ }
+ .ye{
+ 	text-align: center;
+  color: white;
+ 	font-family: "Yu Gothic Medium";
+
+ }

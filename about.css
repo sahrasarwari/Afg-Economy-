@@ -1,0 +1,83 @@
+header{ background-image: url('Capture.png');
+height: 700px;
+width: 100%;
+ }
+h1{
+color: white;
+font-family: "Segoe Print" ;
+font-size: 20px;
+margin-left: 10px;
+float: left;
+width: 50%;
+margin-top: 5px;
+}
+
+.li{
+  text-align: left;
+  color: white;
+  margin-left: 35px
+}
+
+h4{
+  text-align: center;
+  color: white;
+}
+
+
+.i{
+  width: 100%;
+}
+.nav a{
+  text-decoration: none;
+padding: 5px 20px;
+  font-family: "Segoe Print" ;
+  display: inline;
+  float: right;
+
+
+
+
+}
+h2{
+	text-align: center;
+	color: white;
+	font-family: "Yu Gothic Medium";
+
+}
+.c{
+	text-align: center;
+	color: white;
+}
+h3{
+	text-align: left;
+	color: white;
+  margin-left: 25px;
+}
+
+
+footer{
+  background-image: url('c2.png');
+  height: 150px;
+}
+p{
+  text-align: justify;
+  text-align: left;
+  color: white;
+  padding: 20px;
+}
+
+.info{
+  text-align:justify;
+  padding: 26px;
+  color: black;
+  word-spacing: 2px;
+  font-family: "Segoe Print";
+
+}
+
+.aaaaa{
+  text-align: center;
+  color: black;
+  word-spacing: 2px;
+  font-size: 30px;
+}
